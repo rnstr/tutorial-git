@@ -7,3 +7,4 @@ git rm {nama file }-> mengembalikan ke commit yang sebelumnya
 git  checkout {versi}  {nama file }-->  untuk melihat value di versi tersebut
 git ignore {nama file} -> untuk meng ignore agar tidak perlu di track
 git push -u origin master
+git clone -- > untuk mendownload repo nya 
